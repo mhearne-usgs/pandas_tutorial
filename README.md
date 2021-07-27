@@ -15,7 +15,7 @@ If you prefer to run the notebook locally, clone the repository:
 - `bash install.sh`
 
 on Windows:
-- `conda create -n plotting_tutorial python>=3.6 jupyter ipython matplotlib numpy cartopy pandas -y`
+- `conda create -n plotting_tutorial python>=3.6 jupyter ipython matplotlib numpy pandas openpyxl -y`
 - `conda activate pandas_tutorial`
 - `jupyter notebook pandas_tutorial.ipynb`
 
