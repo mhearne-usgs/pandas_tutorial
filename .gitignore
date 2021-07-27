@@ -1,3 +1,6 @@
+# ignore the significant events files that are created by the notebook
+significant_events_2020.*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
