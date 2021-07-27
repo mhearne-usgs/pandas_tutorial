@@ -93,6 +93,7 @@ package_list=(
       "matplotlib"
 	  "numpy"
       "pandas"
+      "openpyxl"
 )
 
 # Create a conda virtual environment
