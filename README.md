@@ -3,7 +3,7 @@ This repository contains the tutorial "Pandas Tutorial " which is part of the 20
 
 Please use Binder via the link below to launch this tutorial in your web browser:
 
-https://hub.gke2.mybinder.org/user/mhearne-usgs-pandas_tutorial-0vp44hj4/notebooks/pandas_tutorial.ipynb
+https://mybinder.org/v2/gh/mhearne-usgs/pandas_tutorial/69d365f501983e49b78fdd19ce300c701e05a3bd
 
 If you prefer to run the notebook locally, clone the repository:
 
